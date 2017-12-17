@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 오픈소스발표자료
+title: 오픈소스 발표 자료
 
 ---
 
@@ -47,5 +47,5 @@ We also do the presentation of our project.
 
 This is the video of presentation.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ZNx2bAD5YhE" frameborder="0" allowfullscreen></iframe>
+[오픈소스 발표 동영상](https://www.youtube.com/watch?v=ZNx2bAD5YhE)
 
