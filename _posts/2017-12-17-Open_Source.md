@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Hello World
+title: 오픈소스발표자료
 
 ---
 
@@ -27,3 +27,19 @@ Here's some photo of it.
 ![_config.yml]({{ site.baseurl }}/images/mod_7.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/mod_8.jpg)
+
+And I printed this modelling file with Cubicon
+
+![_config.yml]({{ site.baseurl }}/images/real_1.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/real_2.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/real_3.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/real_4.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/real_5.jpg)
+
+We also do the presentation of our project.
+
+
