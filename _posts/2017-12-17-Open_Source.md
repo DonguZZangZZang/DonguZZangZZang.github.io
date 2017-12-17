@@ -42,4 +42,8 @@ And I printed this modelling file with Cubicon
 
 We also do the presentation of our project.
 
+![_config.yml]({{ site.baseurl }}/images/Pre.PNG)
+
+
+
 
